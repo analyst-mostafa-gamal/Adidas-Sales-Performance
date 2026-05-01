@@ -8,7 +8,7 @@ An interactive, end-to-end Power BI solution designed to track and analyze the s
 ## ⚙️ Technical Approach
 - **Advanced DAX:** Implemented complex measures for **MoM (Month-over-Month)** and **YoY (Year-over-Year)** growth comparisons.
 - **Interactive UI/UX:** Built a custom monochrome branded interface with a functional navigation bar and intuitive iconography.  
-- **Data Modeling:** Designed a star schema to handle multiple dimensions, including Products, Customers, Geography, and Employees.  
+- **Data Modeling:** Designed a Snowflake schema to handle multiple dimensions, including Products, Customers, Geography, and Employees.  
 - **Granular Reporting:** Included "Drill-Through" detail pages for deep-dive analysis into product and employee metrics.
 
 ## 🛠️ Tools & Technologies
